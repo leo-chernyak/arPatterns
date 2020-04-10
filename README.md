@@ -1,0 +1,2 @@
+# arPatterns
+Patterns for ar
